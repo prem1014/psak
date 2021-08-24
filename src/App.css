@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6c757d;
+  color: white;
+  text-align: center;
+  box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+}
+
+.box-shadow {
+  box-shadow:  0 5px 5px -3px rgb(0 0 0 / 20%), 0 8px 10px 1px rgb(0 0 0 / 14%), 0 3px 14px 2px rgb(0 0 0 / 12%);
+}
